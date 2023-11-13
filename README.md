@@ -1,4 +1,4 @@
-# Yume Nikki en español
+# Yume Nikki en español (resubido)
 
 Es probable que por Internet os hayáis encontrado algún "Yume Nikki" en español. Sí, aparezco en los créditos y tal, pero esa versión está desactualizada, incompleta y está sujeta a errores. Si queréis disfrutar de la verdadera experiencia con errores corregidos, ¡aquí tenéis la última versión disponible!
 
