@@ -6,14 +6,18 @@ Advertencia: el juego es una traducción no oficial y se distribuye de forma com
 
 Descarga la última versión desde aquí.
 
-Créditos
+## Créditos
+```
 De la versión en inglés
 Desconozco el autor de la traducción al inglés, pero agradezco su labor ya que sin su ayuda esto no habría sido posible.
 Uboachan y wiki en inglés de Yume Nikki.
 De la versión en español
 TheFireRed: traducción, pruebas
 Lautaro1428: colaboración en corrección de errores
-Controles
+```
+
+## Controles
+```
 Teclas de dirección: Moverse.
 Tecla Z o Enter: Acción, Confirmar.
 Tecla X o Esc: Cancelar, Menú.
@@ -28,3 +32,4 @@ Explora el Mundo de los sueños y obtén todos los Efectos.
 Dicho mundo es gigantesco; así que utiliza puntos de referencia a la hora de explorar. Camina recto en una dirección hasta que descubras algo nuevo; vuelve a cambiar hasta encontrar otro punto de referencia, y así sucesivamente.
 Si te pierdes o no sabes cómo seguir, pulsa 9 para despertarte.
 Puedes guardar tus progresos en el escritorio de tu habitación una vez estés despierto.
+```
