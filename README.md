@@ -33,3 +33,15 @@ Dicho mundo es gigantesco; así que utiliza puntos de referencia a la hora de ex
 Si te pierdes o no sabes cómo seguir, pulsa 9 para despertarte.
 Puedes guardar tus progresos en el escritorio de tu habitación una vez estés despierto.
 ```
+
+## Imágenes
+
+<details><summary>En juego:</summary>
+<p>
+   
+![Screenshot 1](https://github.com/Lahrenheit/yume-nikki-esp/blob/main/1.png)
+![Screenshot 2](https://github.com/Lahrenheit/yume-nikki-esp/blob/main/1.png)
+![Screenshot 3](https://github.com/Lahrenheit/yume-nikki-esp/blob/main/1.png)
+![Screenshot 4](https://github.com/Lahrenheit/yume-nikki-esp/blob/main/1.png)
+</p>
+</details>
