@@ -39,9 +39,9 @@ Puedes guardar tus progresos en el escritorio de tu habitación una vez estés d
 <details><summary>En juego:</summary>
 <p>
    
-![Screenshot 11](https://github.com/Lahrenheit/yume-nikki-esp/blob/main/1.png)
-![Screenshot 22](https://github.com/Lahrenheit/yume-nikki-esp/blob/main/1.png)
-![Screenshot 33](https://github.com/Lahrenheit/yume-nikki-esp/blob/main/1.png)
-![Screenshot 44](https://github.com/Lahrenheit/yume-nikki-esp/blob/main/1.png)
+![Screenshot 11](https://raw.githubusercontent.com/Lahrenheit/yume-nikki-esp/main/1.png)
+![Screenshot 22](https://raw.githubusercontent.com/Lahrenheit/yume-nikki-esp/main/2.png)
+![Screenshot 33](https://raw.githubusercontent.com/Lahrenheit/yume-nikki-esp/main/3.png)
+![Screenshot 44](https://raw.githubusercontent.com/Lahrenheit/yume-nikki-esp/main/4.png)
 </p>
 </details>
