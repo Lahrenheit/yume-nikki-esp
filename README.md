@@ -4,7 +4,7 @@ Es probable que por Internet os hayáis encontrado algún "Yume Nikki" en españ
 
 Advertencia: el juego es una traducción no oficial y se distribuye de forma completa al ser gratuito. Si recibo algún DMCA en el futuro, no tendré más remedio que retirarlo. Esta traducción también es completamente gratuita y los enlaces de descarga no redirigen a servidores de publicidad para obtener alguna clase de retribución monetaria.
 
-Descarga la última versión desde aquí.
+Descarga la última versión desde [aqui](https://github.com/Lahrenheit/yume-nikki-esp/releases/download/yume-nikki-esp/Yume.Nikki.Espanol.7z)
 
 ## Créditos
 ```
